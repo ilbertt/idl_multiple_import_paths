@@ -1,0 +1,11 @@
+{
+  "name": "idl_multiple_import_instances",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tsx": "^4.19.3"
+  },
+  "scripts": {
+    "test": "tsx test.ts"
+  }
+}
