@@ -1,6 +1,5 @@
 {
-  "main": "index.js",
   "dependencies": {
-    "@dfinity/candid": "^2.3.0"
+    "@dfinity/candid": "file:../dfinity-candid-3.0.0-patch.tgz"
   }
 }
